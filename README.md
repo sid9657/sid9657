@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Devloper
 - 🌱 I’m currently learning frontend as well as backend hibernate and springboot and MySQL Databse
 - 💞️ I’m looking to job or internship
-- 📫 How to reach me [...](https://www.linkedin.com/in/siddhesh-deokar-a8925b211/)
+- 📫 How to reach me  (https://www.linkedin.com/in/siddhesh-deokar-a8925b211/)
 - (siddheshdeokar2@gmail.com)  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
